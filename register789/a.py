@@ -92,6 +92,9 @@ src="https://www.facebook.com/tr?id=198916929620156&ev=PageView&noscript=1"
   
       <div id = "jumbotron" class = "jumbotron" style="margin-top:5px;">
       <a href="https://aff.789bi.app/aff/7375526ng/youtube"><div id="img_profile" ><img id="img_profile" width="95%" src="https://user-images.githubusercontent.com/84266946/180927164-1ae572cc-507f-4d0a-b78a-e0a0772005de.jpg"></div></a>
+	  <div id="img_profile" >
+          <img id="img_profile" width="90%" style="border-radius:5px;margin-top:8px;" src="https://user-images.githubusercontent.com/97161823/237001836-70860dee-ce3f-4031-9540-5551350a28dc.jpg">
+		</div
         <!--<div id="img_profile" >
           <a href="https://aff.789bi.app/aff/7375526ng/youtube">
           <img id="img_profile" width="90%" style="border-radius:5px;margin-top:8px;" src="https://user-images.githubusercontent.com/97161823/226101740-546f8f34-e1f0-4108-aedf-028d59b4bd98.jpg">
@@ -103,7 +106,7 @@ src="https://www.facebook.com/tr?id=198916929620156&ev=PageView&noscript=1"
 
           </a>
           <a href="https://aff.789bi.app/aff/7375526ng/youtube"><button class="button button2">สมัครสมาชิก (ไม่รับโปร)</button></a>
-		  <a href="https://aff.789bi.app/aff/7375526ng/youtube"><button class="button button2">แอดไลน์ (รับโปร)</button></a>
+		  <a href="https://lin.ee/TVHoKHA"><button class="button button2">แอดไลน์ (รับโปร)</button></a>
         <p style="margin-bottom:0px;margin-top:5px;">@789BIT เว็ปดี มีทุกเกมส์</p>
       </div>  
   
